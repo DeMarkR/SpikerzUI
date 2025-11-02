@@ -1,5 +1,17 @@
 # Spikerz Frontend Dashboard
 
+<details>
+  <summary>Photos</summary>
+  <img width="1273" height="596" alt="image" src="https://github.com/user-attachments/assets/059e5832-b036-439d-ae45-b352af894ed9" />
+  
+<img width="1283" height="903" alt="image" src="https://github.com/user-attachments/assets/a1606522-2f2f-4e37-9f62-4a35458f801d" />
+  
+<img width="999" height="884" alt="image" src="https://github.com/user-attachments/assets/1f425da5-f22f-4118-9bc1-9829da6ff09f" />
+  
+<img width="902" height="532" alt="image" src="https://github.com/user-attachments/assets/867b5c39-84ed-4c78-8736-611731a0f6ff" />
+
+</details>
+
 A modern, real-time dashboard built with Next.js for monitoring and managing the Spikerz rate limiting system. Features live WebSocket updates, analytics visualization, and administrative controls.
 
 ## 📋 Table of Contents
